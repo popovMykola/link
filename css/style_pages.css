@@ -1,0 +1,36 @@
+.container h1, p, ul{
+	margin: 0;
+}
+.container{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.heading h1{
+	text-align: center;
+}
+.text{
+	padding: 0 10px 0 10px;
+}
+.heading, .text, .navigation{
+	margin-top: 25px;
+}
+.navigation {
+	margin-left: 350px;
+}
+.list_navigation{
+	padding: 0;
+}
+.list_navigation li{
+	display: block;
+	float: left;
+	margin-left: 15px;
+}
+.list_navigation a{
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+	font-size: 20px;
+}
+.list_navigation a:hover{
+	color: #0000FF;
+}

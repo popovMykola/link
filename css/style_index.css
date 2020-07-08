@@ -1,0 +1,22 @@
+body{
+	margin: 0 auto;
+	max-width: 1000px;
+}
+.list a{
+	text-decoration: none;
+	color: #000;
+	font-size: 20px;
+}
+.list li{
+	list-style-type: square;
+}
+.list a:hover{
+	color:#0000FF;
+}
+.list{
+	margin-left: 350px;
+}
+.heading h1{
+	text-align: center;
+
+}
